@@ -3,8 +3,7 @@ Simple piezo driver mezzanine for Stabilizer
 
 ## Design Files
 
-Design files (schematics, PCB layouts, BOMs) can be found at [Stabilizer_Piezo_Driver
-/Releases](https://github.com/sinara-hw/Stabilizer_Piezo_Driver/releases).
+Design files (schematics, PCB layouts, BOMs) can be found at [Stabilizer_Piezo_Driver/Releases](https://github.com/sinara-hw/Stabilizer_Piezo_Driver/releases).
 
 ## Wiki
 
