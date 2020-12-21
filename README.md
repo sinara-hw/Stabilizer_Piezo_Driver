@@ -9,5 +9,4 @@ Design files (schematics, PCB layouts, BOMs) can be found at [Stabilizer_Piezo_D
 
 ## Wiki
 
-More information can be found on the [wiki](https://github.com/sinara-hw/Stabilizer_Piezo_Driver
-/wiki).
+More information can be found on the [wiki](https://github.com/sinara-hw/Stabilizer_Piezo_Driver/wiki).
