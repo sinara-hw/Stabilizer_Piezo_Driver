@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=stabilizer_current_sense.OutJob
+Name=Stabilizer_Piezo_Driver.OutJob
 Description=
 TargetOutputMedium=PDF
 VariantName=default
@@ -68,7 +68,7 @@ OutputEnabled2_OutputMedium4=0
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration2_Name1=OutputConfigurationParameter1
-Configuration2_Item1=Record=SchPrintView|ShowNoERC=False|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
+Configuration2_Item1=Record=SchPrintView|ShowNoERC=False|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=[Project Physical Documents]
 OutputType3=ExportSTEP
 OutputName3=Export STEP
 OutputCategory3=Export
@@ -87,9 +87,9 @@ OutputName4=PCB 3D Print Top
 OutputCategory4=Documentation
 OutputDocumentPath4=
 OutputVariantName4=default
-OutputEnabled4=1
+OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
-OutputEnabled4_OutputMedium2=2
+OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=0
 OutputEnabled4_OutputMedium4=0
 OutputDefault4=0
@@ -101,9 +101,9 @@ OutputName5=PCB 3D Print Bottom
 OutputCategory5=Documentation
 OutputDocumentPath5=
 OutputVariantName5=default
-OutputEnabled5=1
+OutputEnabled5=0
 OutputEnabled5_OutputMedium1=0
-OutputEnabled5_OutputMedium2=3
+OutputEnabled5_OutputMedium2=0
 OutputEnabled5_OutputMedium3=0
 OutputEnabled5_OutputMedium4=0
 OutputDefault5=0
@@ -115,9 +115,9 @@ OutputName6=PCB Prints
 OutputCategory6=Documentation
 OutputDocumentPath6=
 OutputVariantName6=
-OutputEnabled6=1
+OutputEnabled6=0
 OutputEnabled6_OutputMedium1=0
-OutputEnabled6_OutputMedium2=4
+OutputEnabled6_OutputMedium2=0
 OutputEnabled6_OutputMedium3=0
 OutputEnabled6_OutputMedium4=0
 OutputDefault6=0
