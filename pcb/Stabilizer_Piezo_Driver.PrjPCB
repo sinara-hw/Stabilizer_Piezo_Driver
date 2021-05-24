@@ -24,6 +24,7 @@ ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=0
+AutoCrossReferences=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
@@ -101,7 +102,7 @@ AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -190,7 +191,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BDGRDCQD
 
 [ProjectVariant1]
 UniqueID=54C277C9-A7DE-4263-9491-30DDC0A11798
@@ -278,24 +279,24 @@ ParamDesignator29=IC2
 ParamVariationCount=29
 
 [Parameter1]
-Name=ProjAddress1
-Value=Department of Physics
+Name=ProjRevision
+Value=1.0
 
 [Parameter2]
-Name=ProjAddress2
-Value=University of Oxford
+Name=ProjOrganization
+Value=Ion Trapping Group
 
 [Parameter3]
 Name=ProjAddress3
 Value=UK
 
 [Parameter4]
-Name=ProjOrganization
-Value=Ion Trapping Group
+Name=ProjAddress2
+Value=University of Oxford
 
 [Parameter5]
-Name=ProjRevision
-Value=1.0
+Name=ProjAddress1
+Value=Department of Physics
 
 [Configuration1]
 Name=Sources
