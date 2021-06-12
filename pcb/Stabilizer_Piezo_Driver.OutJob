@@ -251,7 +251,7 @@ Configuration11_Name1=OutputConfigurationParameter1
 Configuration11_Item1=Record=LayerStackReportView|Units=Imperial
 
 [PublishSettings]
-OutputFilePath2=C:\scratch\tph\stabilizer_current_sense\pcb\Project Outputs for stabilizer_current_sense\current_stabilizer.PDF
+OutputFilePath2=C:\Users\JakubKajzer\Dropbox\Thesis\Project\pcb\Project Outputs for stabilizer_current_sense\stabilizer_current_sense.PDF
 ReleaseManaged2=1
 OutputBasePath2=Project Outputs for stabilizer_current_sense
 OutputPathMedia2=
@@ -259,7 +259,7 @@ OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=stabilizer_current_sense.PDF
+OutputFileName2=schematic.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
@@ -330,7 +330,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\scratch\tph\stabilizer_current_sense\pcb\Project Outputs for stabilizer_current_sense\current_stabilizer.PDF
+RelativeOutputPath2=C:\Users\JakubKajzer\Dropbox\Thesis\Project\pcb\Project Outputs for stabilizer_current_sense\stabilizer_current_sense.PDF
 OpenOutputs2=1
 RelativeOutputPath3=C:\scratch\tph\stabilizer_current_sense\pcb\Project Outputs for stabilizer_current_sense\
 OpenOutputs3=1
