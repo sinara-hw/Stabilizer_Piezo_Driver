@@ -1,0 +1,29 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Stabilizer_Piezo_Driver.PcbDoc   22.07.2021  08:15:54
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 to L4
+ASCII RoundHoles File : Stabilizer_Piezo_Driver.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             51        PTH        0.00inch (0.00mm)
+T2      20mil (0.5mm)                                             Round             169       PTH        0.00inch (0.00mm)
+T3      28mil (0.711mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T4      32mil (0.8mm)                                             Round             12        PTH        0.00inch (0.00mm)
+T5      35mil (0.9mm)                                             Round             36        PTH        0.00inch (0.00mm)
+T6      39mil (1mm)                                               Round             22        PTH        0.00inch (0.00mm)
+T7      41mil (1.04mm)                                            Round             76        PTH        0.00inch (0.00mm)
+T8      47mil (1.2mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T9      59mil (1.5mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T10     63mil (1.6mm)                                             Round             8         PTH        0.00inch (0.00mm)
+T11     67mil (1.7mm)                                             Round             11        PTH        0.00inch (0.00mm)
+T12     71mil (1.8mm)                                             Round             22        PTH        0.00inch (0.00mm)
+T13     106mil (2.7mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T14     126mil (3.2mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T15     118mil (3mm)                                              Round             1         NPTH       0.00inch (0.00mm)
+T16     264mil (6.7mm)                                            Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              422
+
+Total Processing Time (hh:mm:ss) : 00:00:01
