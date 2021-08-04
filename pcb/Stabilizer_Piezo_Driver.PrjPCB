@@ -92,23 +92,6 @@ GenerateClassCluster=0
 DocumentUniqueId=BDGRDCQD
 
 [Document4]
-DocumentPath=overtemp_indicator.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=8
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EJYEMBUW
-
-[Document5]
 DocumentPath=power_supplies.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OQYOVFAE
 
-[Document6]
+[Document5]
 DocumentPath=Stabilizer_Piezo_Driver.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document6]
 DocumentPath=Stabilizer_Piezo_Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,9 +140,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UAAWIXVS
+DocumentUniqueId=KDPXPYBJ
 
-[Document8]
+[Document7]
 DocumentPath=Stabilizer_Piezo_Driver.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,111 +159,61 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PFAFJXOO
 
-[Document9]
+[Document8]
 DocumentPath=mechanics.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=4
+AnnotateOrder=10
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
+ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WJSGVPNU
+DocumentUniqueId=WAVEYQYU
+
+[Document9]
+DocumentPath=overtemp_indicator.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=11
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EJYEMBUW
 
 [ProjectVariant1]
-UniqueID=54C277C9-A7DE-4263-9491-30DDC0A11798
-Description=default
-AllowFabrication=0
-ParameterCount=0
-VariationCount=2
-Variation1=Designator=R43|UniqueId=\NFHGSUUD\JMIEEQDX|Kind=1|AlternatePart= 
-Variation2=Designator=R44|UniqueId=\NFHGSUUD\WYNPOBIL|Kind=1|AlternatePart= 
-ParamVariationCount=0
-
-[ProjectVariant2]
 UniqueID=895617CC-2B7B-43D3-A9E0-9B58F2BF1EEC
 Description=92..200V
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=3
+Variation1=Designator=IC5|UniqueId=\OKXLDUEH\ZNTYAVKD|Kind=1|AlternatePart= 
+Variation2=Designator=R44|UniqueId=\NFHGSUUD\GUHDVZPQ|Kind=1|AlternatePart= 
+Variation3=Designator=R43|UniqueId=\NFHGSUUD\VGKZXRSC|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
-[ProjectVariant3]
+[ProjectVariant2]
 UniqueID=2881858D-8FD5-4C36-AA8B-B56BA4FA79A6
 Description=50..135V
 AllowFabrication=0
 ParameterCount=0
-VariationCount=1
-Variation1=Designator=IC2|UniqueId=\OKXLDUEH\ZEGRMOJK|Kind=2|AlternatePart==Device|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Dropbox\CernLib\ICs And Semiconductors.DbLib/DC-DC Converters|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=R12-100B|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=ICs And Semiconductors.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=DC-DC Converters|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=DCDC_RECOM_Rxx-B|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Comment|VariantValue==Device
-ParamDesignator1=IC2
-ParamVariation2=ParameterName=Bonding|VariantValue=No
-ParamDesignator2=IC2
-ParamVariation3=ParameterName=ComponentHeight|VariantValue=9.9mm
-ParamDesignator3=IC2
-ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator4=IC2
-ParamVariation5=ParameterName=Component Type|VariantValue=Standard
-ParamDesignator5=IC2
-ParamVariation6=ParameterName=CreateDate|VariantValue=29.08.2019
-ParamDesignator6=IC2
-ParamVariation7=ParameterName=Database Table Name|VariantValue=DC-DC Converters
-ParamDesignator7=IC2
-ParamVariation8=ParameterName=Description|VariantValue=RECOM, Rxx-B Series, Single Output DCDC Converter
-ParamDesignator8=IC2
-ParamVariation9=ParameterName=Device|VariantValue=R12-100B
-ParamDesignator9=IC2
-ParamVariation10=ParameterName=Footprint|VariantValue=DCDC_RECOM_Rxx-B
-ParamDesignator10=IC2
-ParamVariation11=ParameterName=HelpURL|VariantValue=\\cern.ch\dfs\Applications\Altium\Datasheets\R12-100B.pdf
-ParamDesignator11=IC2
-ParamVariation12=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator12=IC2
-ParamVariation13=ParameterName=LatestRevisionDate|VariantValue=29.08.2019
-ParamDesignator13=IC2
-ParamVariation14=ParameterName=Library Reference|VariantValue=R12-100B
-ParamDesignator14=IC2
-ParamVariation15=ParameterName=Manufacturer|VariantValue=RECOM
-ParamDesignator15=IC2
-ParamVariation16=ParameterName=Manufacturer Part Number|VariantValue=R12-100B
-ParamDesignator16=IC2
-ParamVariation17=ParameterName=Mounted|VariantValue=Yes
-ParamDesignator17=IC2
-ParamVariation18=ParameterName=PackageDescription|VariantValue=Rxx-B Series, Body 31.8x20.3mm, DIP24 Package
-ParamDesignator18=IC2
-ParamVariation19=ParameterName=Part Description|VariantValue=10-14VDC to 50-135VDC, 3kVDC Isolated, 5W DC-DC Converter
-ParamDesignator19=IC2
-ParamVariation20=ParameterName=Part Number|VariantValue=R12-100B
-ParamDesignator20=IC2
-ParamVariation21=ParameterName=PCB3D|VariantValue= 
-ParamDesignator21=IC2
-ParamVariation22=ParameterName=Pin Count|VariantValue=12
-ParamDesignator22=IC2
-ParamVariation23=ParameterName=Pin Info|VariantValue= 
-ParamDesignator23=IC2
-ParamVariation24=ParameterName=PressFit|VariantValue=No
-ParamDesignator24=IC2
-ParamVariation25=ParameterName=Sense|VariantValue=No
-ParamDesignator25=IC2
-ParamVariation26=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator26=IC2
-ParamVariation27=ParameterName=Simulation|VariantValue= 
-ParamDesignator27=IC2
-ParamVariation28=ParameterName=SMD|VariantValue=No
-ParamDesignator28=IC2
-ParamVariation29=ParameterName=Socket|VariantValue=No
-ParamDesignator29=IC2
-ParamVariationCount=29
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for stabilizer_current_sense\Design Rule Check - Stabilizer_Piezo_Driver.html
-DItemRevisionGUID=
+VariationCount=3
+Variation1=Designator=IC2|UniqueId=\OKXLDUEH\ZEGRMOJK|Kind=1|AlternatePart= 
+Variation2=Designator=R44|UniqueId=\NFHGSUUD\GUHDVZPQ|Kind=1|AlternatePart= 
+Variation3=Designator=R43|UniqueId=\NFHGSUUD\VGKZXRSC|Kind=1|AlternatePart= 
+ParamVariationCount=0
 
 [Parameter1]
 Name=ProjAddress1
