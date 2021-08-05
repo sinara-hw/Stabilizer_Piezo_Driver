@@ -160,23 +160,6 @@ GenerateClassCluster=0
 DocumentUniqueId=PFAFJXOO
 
 [Document8]
-DocumentPath=mechanics.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=10
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WAVEYQYU
-
-[Document9]
 DocumentPath=overtemp_indicator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -192,6 +175,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EJYEMBUW
+
+[Document9]
+DocumentPath=mechanics.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=10
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WAVEYQYU
 
 [ProjectVariant1]
 UniqueID=895617CC-2B7B-43D3-A9E0-9B58F2BF1EEC
@@ -214,6 +214,86 @@ Variation1=Designator=IC2|UniqueId=\OKXLDUEH\ZEGRMOJK|Kind=1|AlternatePart=
 Variation2=Designator=R44|UniqueId=\NFHGSUUD\GUHDVZPQ|Kind=1|AlternatePart= 
 Variation3=Designator=R43|UniqueId=\NFHGSUUD\VGKZXRSC|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for stabilizer_current_sense\BOM\Bill of Materials-Stabilizer_Piezo_Driver.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for stabilizer_current_sense\Pick Place\Pick Place for Stabilizer_Piezo_Driver.txt
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for stabilizer_current_sense\NC Drill\Stabilizer_Piezo_Driver.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for stabilizer_current_sense\Gerber\Stabilizer_Piezo_Driver.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for stabilizer_current_sense\Gerber\Stabilizer_Piezo_Driver.G1
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for stabilizer_current_sense\Gerber\Stabilizer_Piezo_Driver.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for stabilizer_current_sense\Gerber\Stabilizer_Piezo_Driver.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for stabilizer_current_sense\Gerber\Stabilizer_Piezo_Driver.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for stabilizer_current_sense\Gerber\Stabilizer_Piezo_Driver.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for stabilizer_current_sense\Gerber\Stabilizer_Piezo_Driver.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for stabilizer_current_sense\Gerber\Stabilizer_Piezo_Driver.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for stabilizer_current_sense\Gerber\Stabilizer_Piezo_Driver.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for stabilizer_current_sense\Gerber\Stabilizer_Piezo_Driver.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for stabilizer_current_sense\Gerber\Stabilizer_Piezo_Driver.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for stabilizer_current_sense\NC Drill\Stabilizer_Piezo_Driver.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for stabilizer_current_sense\Gerber\Stabilizer_Piezo_Driver.REP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for stabilizer_current_sense\Gerber\Stabilizer_Piezo_Driver.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for stabilizer_current_sense\ExportSTEP\Stabilizer_Piezo_Driver.step
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for stabilizer_current_sense\NC Drill\Stabilizer_Piezo_Driver.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for stabilizer_current_sense\Report Board Stack\Stabilizer_Piezo_Driver.xls
+DItemRevisionGUID=
 
 [Parameter1]
 Name=ProjAddress1
